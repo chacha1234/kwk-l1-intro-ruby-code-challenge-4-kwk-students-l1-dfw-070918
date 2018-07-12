@@ -24,4 +24,4 @@ return coins
 
 end
 
-puts least_coins(31)
+puts least_coins(18347812)
